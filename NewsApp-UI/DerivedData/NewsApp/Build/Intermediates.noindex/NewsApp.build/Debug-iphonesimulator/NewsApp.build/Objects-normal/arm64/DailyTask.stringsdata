@@ -1,0 +1,24 @@
+{
+  "source": "/Users/swan/Desktop/self_project/iOS/swiftUI/NewsApp/NewsApp/views/views/DailyTask.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "已完成"
+      },
+      {
+        "comment": "",
+        "key": "去学习"
+      },
+      {
+        "comment": "",
+        "key": "%lld%@"
+      },
+      {
+        "comment": "",
+        "key": "已获得%lld积分/每日上限%lld积分"
+      }
+    ]
+  },
+  "version": 1
+}

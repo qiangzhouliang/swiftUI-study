@@ -1,0 +1,20 @@
+{
+  "source": "/Users/swan/Desktop/self_project/iOS/swiftUI/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/Previews/iphonesimulator/NewsApp/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "学习"
+      },
+      {
+        "comment": "",
+        "key": "任务"
+      },
+      {
+        "comment": "",
+        "key": "我的"
+      }
+    ]
+  },
+  "version": 1
+}

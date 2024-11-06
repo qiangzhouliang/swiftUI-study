@@ -1,0 +1,40 @@
+{
+  "source": "/Users/swan/Desktop/self_project/iOS/swiftUI/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/Previews/iphonesimulator/NewsApp/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/OverView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "学习任务"
+      },
+      {
+        "comment": "",
+        "key": "学习周期：2021.01.01 - 2021.12.31"
+      },
+      {
+        "comment": "",
+        "key": "10000分"
+      },
+      {
+        "comment": "",
+        "key": "学年积分"
+      },
+      {
+        "comment": "",
+        "key": "13500分"
+      },
+      {
+        "comment": "",
+        "key": "学年规定积分"
+      },
+      {
+        "comment": "",
+        "key": "3500分"
+      },
+      {
+        "comment": "",
+        "key": "还差"
+      }
+    ]
+  },
+  "version": 1
+}
