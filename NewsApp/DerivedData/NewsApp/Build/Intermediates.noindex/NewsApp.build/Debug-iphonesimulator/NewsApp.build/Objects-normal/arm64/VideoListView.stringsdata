@@ -1,0 +1,20 @@
+{
+  "source": "/Users/swan/Desktop/self_project/iOS/swiftUI/NewsApp/NewsApp/views/views/VideoListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "loading"
+      },
+      {
+        "comment": "",
+        "key": "视频教程"
+      },
+      {
+        "comment": "",
+        "key": "时长：%@"
+      }
+    ]
+  },
+  "version": 1
+}

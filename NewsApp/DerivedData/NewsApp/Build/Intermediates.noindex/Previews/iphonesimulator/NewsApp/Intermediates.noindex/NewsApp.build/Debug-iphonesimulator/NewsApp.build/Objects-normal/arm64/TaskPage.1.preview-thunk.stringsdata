@@ -1,0 +1,20 @@
+{
+  "source": "/Users/swan/Desktop/self_project/iOS/swiftUI/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/Previews/iphonesimulator/NewsApp/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/TaskPage.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "学习明细"
+      },
+      {
+        "comment": "",
+        "key": "最近一周获得积分情况"
+      },
+      {
+        "comment": "",
+        "key": "今日获取0积分，快去完成下面的任务吧"
+      }
+    ]
+  },
+  "version": 1
+}

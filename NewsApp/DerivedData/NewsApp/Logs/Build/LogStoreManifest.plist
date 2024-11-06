@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>BE6ACDE2-BE53-4891-8CC8-9B367C7D5C7E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BE6ACDE2-BE53-4891-8CC8-9B367C7D5C7E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>9</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752576810.19879496</real>
+			<key>timeStoppedRecording</key>
+			<real>752576813.54428697</real>
+			<key>title</key>
+			<string>Build NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>BE6ACDE2-BE53-4891-8CC8-9B367C7D5C7E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
