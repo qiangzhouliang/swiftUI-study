@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "38720BF20D320F25B447AA39131050B47D9BF7C4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "38720BF20D320F25B447AA39131050B47D9BF7C4" : 0,
+    "67620B5EFA902936DF04070AF595B76AB0333747" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "709A26E9-1D77-41A4-9906-A099B99305D5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "38720BF20D320F25B447AA39131050B47D9BF7C4" : "swiftUI-study\/",
+    "67620B5EFA902936DF04070AF595B76AB0333747" : "swiftUI-study\/NewsApp\/DerivedData\/NewsApp\/SourcePackages\/checkouts\/alamofire\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NewsApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NewsApp\/NewsApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/qiangzhouliang\/swiftUI-study.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "38720BF20D320F25B447AA39131050B47D9BF7C4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/swan\/Desktop\/self_project\/iOS\/swiftUI\/swiftUI-study\/NewsApp\/DerivedData\/NewsApp\/SourcePackages\/repositories\/alamofire-95846674",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67620B5EFA902936DF04070AF595B76AB0333747"
+    }
+  ]
+}

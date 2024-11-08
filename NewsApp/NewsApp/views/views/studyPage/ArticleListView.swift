@@ -11,23 +11,27 @@ struct ArticleListView: View {
     
     @StateObject private var articleVM = ArticleViewModel()
     
+    
     var body: some View {
-        ForEach(articleVM.articles) { article in
-            VStack(alignment: .leading) {
-                Text(article.title)
-                    .font(.system(size: 16))
-                    .foregroundColor(Color(.sRGB, red: 51/255, green: 51/255, blue: 51/255, opacity: 1))
-                HStack {
-                    Text(article.mediaName)
-                        .font(.system(size: 10))
-                    Spacer()
-                    Text(article.publishTime)
-                        .font(.system(size: 10))
-                }
-                .foregroundColor(Color(.sRGB, red: 153/255, green: 153/255, blue: 153/255, opacity: 1))
-                .padding(.top, 4.0)
-                Divider()
-            }.redacted(reason: articleVM.loaded ? [] :.placeholder) // 数据没加载出来之前的占位显示
+        //, id: \.self
+        ForEach(articleVM.articles, id: \.self) { article in
+            NavigationLink(destination: ArticleDetail(id: article.id)) {
+                VStack(alignment: .leading) {
+                    Text(article.title)
+                        .font(.system(size: 16))
+                        .foregroundColor(getColor(all: 51))
+                    HStack {
+                        Text(article.mediaName)
+                            .font(.system(size: 10))
+                        Spacer()
+                        Text(article.publishTime)
+                            .font(.system(size: 10))
+                    }
+                    .foregroundColor(contentColor)
+                    .padding(.top, 4.0)
+                    Divider()
+                }.redacted(reason: articleVM.loaded ? [] :.placeholder) // 数据没加载出来之前的占位显示
+            }.buttonStyle(PlainButtonStyle())
         }
         .padding(.top)
         .padding(.horizontal)

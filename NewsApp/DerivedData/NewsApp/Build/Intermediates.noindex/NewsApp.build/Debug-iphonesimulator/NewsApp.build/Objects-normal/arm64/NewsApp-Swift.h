@@ -275,6 +275,8 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import ObjectiveC;
+@import WebKit;
 #endif
 
 #endif
@@ -298,6 +300,16 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 
+
+@class WKWebView;
+@class WKNavigation;
+
+SWIFT_CLASS("_TtC7NewsApp18WebViewCoordinator")
+@interface WebViewCoordinator : NSObject <WKNavigationDelegate>
+- (void)webView:(WKWebView * _Nonnull)webView didFinishNavigation:(WKNavigation * _Null_unspecified)navigation;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
 
 #endif
 #if __has_attribute(external_source_symbol)

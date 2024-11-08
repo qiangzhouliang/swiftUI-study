@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-Target 'NewsApp' in project 'NewsApp' (no dependencies)
-Target 'NewsApp' in project 'NewsApp' (no dependencies)

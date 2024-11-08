@@ -1,0 +1,24 @@
+"/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/taskPage/OverView.swift":
+  object: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/OverView.o"
+  swift-dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/OverView.swiftdeps"
+  dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/OverView.d"
+  diagnostics: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/OverView.dia"
+  const-values: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/OverView.swiftconstvalues"
+"/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/Model/Entity/Category.swift":
+  swift-dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/Category.swiftdeps"
+  object: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/Category.o"
+  dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/Category.d"
+  const-values: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/Category.swiftconstvalues"
+  diagnostics: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/Category.dia"
+"/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/studyPage/TabbarView.swift":
+  dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/TabbarView.d"
+  diagnostics: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/TabbarView.dia"
+  swift-dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/TabbarView.swiftdeps"
+  const-values: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/TabbarView.swiftconstvalues"
+  object: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/TabbarView.o"
+"/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/ViewModel/CategoryViewModel.swift":
+  diagnostics: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/CategoryViewModel.dia"
+  const-values: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/CategoryViewModel.swiftconstvalues"
+  dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/CategoryViewModel.d"
+  swift-dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/CategoryViewModel.swiftdeps"
+  object: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/CategoryViewModel.o"

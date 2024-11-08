@@ -1,0 +1,18 @@
+"/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/ContentView.swift":
+  diagnostics: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/ContentView.dia"
+  dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/ContentView.d"
+  object: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/ContentView.o"
+  swift-dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/ContentView.swiftdeps"
+  const-values: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/ContentView.swiftconstvalues"
+"/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/studyPage/Swiper.swift":
+  swift-dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/Swiper.swiftdeps"
+  const-values: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/Swiper.swiftconstvalues"
+  diagnostics: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/Swiper.dia"
+  object: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/Swiper.o"
+  dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/Swiper.d"
+"/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/studyPage/WebView.swift":
+  swift-dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/WebView.swiftdeps"
+  diagnostics: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/WebView.dia"
+  object: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/WebView.o"
+  const-values: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/WebView.swiftconstvalues"
+  dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/WebView.d"

@@ -1,0 +1,201 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "fe41328645222495e1f49d05f47999b45a90c45e6e75909e913cbb6eb0694707",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Products",
+          "derivedDataPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/Previews/iphonesimulator/NewsApp/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/Previews/iphonesimulator/NewsApp/Intermediates.noindex",
+              "SYMROOT" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/Previews/iphonesimulator/NewsApp/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "544CF777-8A9F-422E-92E5-410D4A52659A",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PACKAGE-TARGET:Alamofire",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Products",
+          "derivedDataPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/Previews/iphonesimulator/NewsApp/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/Previews/iphonesimulator/NewsApp/Intermediates.noindex",
+              "SYMROOT" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/Previews/iphonesimulator/NewsApp/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "544CF777-8A9F-422E-92E5-410D4A52659A",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:Alamofire",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Products",
+          "derivedDataPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/Previews/iphonesimulator/NewsApp/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/Previews/iphonesimulator/NewsApp/Intermediates.noindex",
+              "SYMROOT" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/Previews/iphonesimulator/NewsApp/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "544CF777-8A9F-422E-92E5-410D4A52659A",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Products",
+      "derivedDataPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.5",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "544CF777-8A9F-422E-92E5-410D4A52659A",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

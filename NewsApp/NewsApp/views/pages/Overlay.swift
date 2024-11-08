@@ -64,8 +64,8 @@ struct ToastViewModifier:ViewModifier {
             .background(Color.gray.opacity(0.1))
             .opacity(present ? 1 : 0)
             .zIndex(1)
-            .onChange(of: present) { value in
-                if (value){
+            .onChange(of: present) { oldValue, newValue in
+                if (newValue){
                     //延迟3秒消失
                     DispatchQueue.main.asyncAfter(deadline: .now() + 3) {
                         present.toggle()

@@ -1,0 +1,18 @@
+"/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/mine/MineItemView.swift":
+  dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/MineItemView.d"
+  const-values: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/MineItemView.swiftconstvalues"
+  swift-dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/MineItemView.swiftdeps"
+  object: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/MineItemView.o"
+  diagnostics: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/MineItemView.dia"
+"/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/BottomSheet.swift":
+  swift-dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/BottomSheet.swiftdeps"
+  diagnostics: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/BottomSheet.dia"
+  dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/BottomSheet.d"
+  const-values: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/BottomSheet.swiftconstvalues"
+  object: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/BottomSheet.o"
+"/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/taskPage/ChartView.swift":
+  object: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/ChartView.o"
+  const-values: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/ChartView.swiftconstvalues"
+  diagnostics: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/ChartView.dia"
+  dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/ChartView.d"
+  swift-dependencies: "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/ChartView.swiftdeps"

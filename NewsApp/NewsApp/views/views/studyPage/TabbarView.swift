@@ -115,6 +115,9 @@ struct TabbarSubview: View {
                     .animation(.easeInOut, value: 0.3)
             }
         }
+        .onAppear {
+            selectedIndex = selection?.wrappedValue ?? 0
+        }
     }
 }
 

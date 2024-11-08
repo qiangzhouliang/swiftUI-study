@@ -7,4 +7,4 @@
 
 import Foundation
 
-protocol BaseModel: Decodable, Identifiable {}
+protocol BaseModel: Codable, Identifiable {}

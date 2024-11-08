@@ -1,0 +1,16 @@
+{
+  "source": "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/Previews/iphonesimulator/NewsApp/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/VideoDetail.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "详情"
+      },
+      {
+        "comment": "",
+        "key": "%@"
+      }
+    ]
+  },
+  "version": 1
+}

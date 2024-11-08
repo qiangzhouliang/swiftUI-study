@@ -13,9 +13,7 @@ class VideoViewModel: ObservableObject {
     private let service = VideoService()
     
     //文章列表数据
-    @Published private(set) var videoList: [VideoModel] = Array(generating: { index in
-        .mock(id: UUID().uuidString, title: String(repeating: "视频标题", count: Int.random(in: 5...15)))
-    }, count: 10)
+    @Published private(set) var videoList: [VideoModel] = Array(repeating: .mock, count: 10)
     
     //列表数据是否加载完成
     @Published private(set) var listLoaded = false

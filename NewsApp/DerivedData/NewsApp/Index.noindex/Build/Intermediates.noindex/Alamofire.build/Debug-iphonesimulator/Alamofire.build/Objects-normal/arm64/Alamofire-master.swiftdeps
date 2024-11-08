@@ -1,0 +1,75 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "b46b4b3d6e73c12dfe38b7aa2192142dfa1fd5039002810add9343bf2d7db56e"
+build_start_time: [1730971648, 619959000]
+build_end_time: [1730971650, 778374000]
+inputs:
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/AFError.swift"
+  : [1730971644, 10605519]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/Alamofire.swift"
+  : [1730971644, 10807103]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/AlamofireExtended.swift"
+  : [1730971644, 10961396]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/AuthenticationInterceptor.swift"
+  : [1730971644, 11081646]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/CachedResponseHandler.swift"
+  : [1730971644, 11212856]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/Combine.swift"
+  : [1730971644, 11602274]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/DispatchQueue+Alamofire.swift"
+  : [1730971644, 12437779]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/EventMonitor.swift"
+  : [1730971644, 12613238]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/HTTPHeaders.swift"
+  : [1730971644, 13192866]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/HTTPMethod.swift"
+  : [1730971644, 13299283]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/MultipartFormData.swift"
+  : [1730971644, 15662254]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/MultipartUpload.swift"
+  : [1730971644, 20265070]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/NetworkReachabilityManager.swift"
+  : [1730971644, 20550405]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/Notifications.swift"
+  : [1730971644, 21017907]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/OperationQueue+Alamofire.swift"
+  : [1730971644, 21144741]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/ParameterEncoder.swift"
+  : [1730971644, 21369326]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/ParameterEncoding.swift"
+  : [1730971644, 22245664]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/Protected.swift"
+  : [1730971644, 22386623]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/RedirectHandler.swift"
+  : [1730971644, 22619874]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/Request.swift"
+  : [1730971644, 23031085]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/RequestInterceptor.swift"
+  : [1730971644, 25756891]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/RequestTaskMap.swift"
+  : [1730971644, 25894141]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/Response.swift"
+  : [1730971644, 26103059]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/ResponseSerialization.swift"
+  : [1730971644, 26425894]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/Result+Alamofire.swift"
+  : [1730971644, 26590812]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/RetryPolicy.swift"
+  : [1730971644, 26758521]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/ServerTrustEvaluation.swift"
+  : [1730971644, 27096648]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/Session.swift"
+  : [1730971644, 27871319]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/SessionDelegate.swift"
+  : [1730971644, 29125617]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/StringEncoding+Alamofire.swift"
+  : [1730971644, 29762620]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/URLConvertible+URLRequestConvertible.swift"
+  : [1730971644, 30260623]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/URLEncodedFormEncoder.swift"
+  : [1730971644, 30462832]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/URLRequest+Alamofire.swift"
+  : [1730971644, 30611458]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/URLSessionConfiguration+Alamofire.swift"
+  : [1730971644, 30712542]
+  ? "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/SourcePackages/checkouts/alamofire/Source/Validation.swift"
+  : [1730971644, 30855251]

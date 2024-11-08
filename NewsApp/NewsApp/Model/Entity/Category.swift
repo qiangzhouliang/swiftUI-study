@@ -6,3 +6,12 @@
 //
 
 import Foundation
+
+struct Category: Codable {
+    var id: String
+    var name:String
+}
+
+extension Category {
+    static let mock = Category(id: UUID().uuidString, name: "分类")
+}
