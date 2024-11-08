@@ -64,10 +64,15 @@ struct TabbarSubview: View {
     }
     
     private var itemWidth: CGFloat {
+        
+        if items.isEmpty {
+            return 0
+        }
+        
         if items.count > 4 {
-            width / 4
+            return width / 4
         } else {
-            width / CGFloat(items.count)
+            return width / CGFloat(items.count)
         }
     }
     
