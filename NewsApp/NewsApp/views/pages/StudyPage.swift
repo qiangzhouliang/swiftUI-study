@@ -27,6 +27,13 @@ struct StudyPage: View {
         }
     }
     
+    // 用户 vm
+    @EnvironmentObject var userVM: UserViewModel
+    // 是否触发登录页面跳转
+    @State var showLogin: Bool = false
+    // 是否触发登录页面跳转
+    @State var showPointDetail: Bool = false
+    
     var body: some View {
         // 标题栏
         VStack {
@@ -47,10 +54,26 @@ struct StudyPage: View {
                 .clipShape(RoundedRectangle(cornerRadius: 25.0))
                 
                 // 学习进度
-                HStack {
-                    Text("学习\n进度")
-                    Text("100%")
+                NavigationLink(destination: LoginView(), isActive: $showLogin) {
+                    Text("")
                 }
+                NavigationLink(destination: Text("详情页"), isActive: $showPointDetail) {
+                    HStack {
+                        Text("学习\n进度")
+                        Text(userVM.isLogged ? "100%" : "%0")
+                    }
+                    .foregroundColor(.white)
+                    .onTapGesture {
+                        if !userVM.isLogged {
+                            // 未登录：跳转到登录页
+                            showLogin.toggle()
+                        } else {
+                            // 已登录：跳到用户详情页
+                            showPointDetail.toggle()
+                        }
+                    }
+                }
+                
                 
                 Image(systemName: "bell")
             }
@@ -78,6 +101,7 @@ struct StudyPage: View {
                     .aspectRatio(7/3, contentMode: .fit)
                     .cornerRadius(12.0)
                     .padding(.horizontal)
+                    
                     if showNewsList {
                         // 新闻列表
                         ArticleListView()
@@ -88,6 +112,7 @@ struct StudyPage: View {
                 }
             }
         }
+        .navigationBarHidden(true)
     }
 }
 

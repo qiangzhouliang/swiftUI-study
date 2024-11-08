@@ -30,6 +30,7 @@ struct ContentView: View {
                     .ignoresSafeArea(edges: .top)
             }
         }
+        .navigationBarTitleDisplayMode(.inline)
     }
 }
 

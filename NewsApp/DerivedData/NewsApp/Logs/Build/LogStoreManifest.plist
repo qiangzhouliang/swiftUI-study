@@ -300,6 +300,48 @@
 			<key>uniqueIdentifier</key>
 			<string>0F6A7A55-10FB-405A-A1BD-90C1C3B8E62B</string>
 		</dict>
+		<key>11033ABB-F725-40DB-9AF0-1ECDD8D48A9A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>11033ABB-F725-40DB-9AF0-1ECDD8D48A9A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747114.54386103</real>
+			<key>timeStoppedRecording</key>
+			<real>752747115.72504902</real>
+			<key>title</key>
+			<string>Build NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>11033ABB-F725-40DB-9AF0-1ECDD8D48A9A</string>
+		</dict>
 		<key>1162CA3C-02F7-4B08-BA87-DFDCB35FEBCB</key>
 		<dict>
 			<key>className</key>
@@ -510,6 +552,48 @@
 			<key>uniqueIdentifier</key>
 			<string>16E4C137-A84D-4063-B57B-AD4EE245AB64</string>
 		</dict>
+		<key>17126A51-F2B4-4D01-9068-5D6D763FEDF6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>17126A51-F2B4-4D01-9068-5D6D763FEDF6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>5</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752748131.28235996</real>
+			<key>timeStoppedRecording</key>
+			<real>752748132.24539101</real>
+			<key>title</key>
+			<string>Build for Previews NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>17126A51-F2B4-4D01-9068-5D6D763FEDF6</string>
+		</dict>
 		<key>17B23812-FDD7-42E0-97DF-8721CDEB815A</key>
 		<dict>
 			<key>className</key>
@@ -719,6 +803,48 @@
 			<string>Build NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>219118F3-5BCA-4138-9736-8E2BDA758090</string>
+		</dict>
+		<key>238F38BC-3BA0-4E17-9B39-551688044F7D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>238F38BC-3BA0-4E17-9B39-551688044F7D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747629.43994796</real>
+			<key>timeStoppedRecording</key>
+			<real>752747630.38562799</real>
+			<key>title</key>
+			<string>Build NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>238F38BC-3BA0-4E17-9B39-551688044F7D</string>
 		</dict>
 		<key>25B503B0-F46D-4ED9-AEB3-8EFF2B4C0425</key>
 		<dict>
@@ -1139,6 +1265,48 @@
 			<string>Build NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>38B95380-40BC-433B-97E1-6E62911402ED</string>
+		</dict>
+		<key>3938BBF5-A80E-415B-89E8-BCA52DE2FB5C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3938BBF5-A80E-415B-89E8-BCA52DE2FB5C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747385.79310405</real>
+			<key>timeStoppedRecording</key>
+			<real>752747387.011397</real>
+			<key>title</key>
+			<string>Build NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>3938BBF5-A80E-415B-89E8-BCA52DE2FB5C</string>
 		</dict>
 		<key>393E087B-0B46-45BE-9095-A9431B72A722</key>
 		<dict>
@@ -1602,6 +1770,90 @@
 			<key>uniqueIdentifier</key>
 			<string>4A76EA9D-B906-428E-949C-3F1D01EE01F4</string>
 		</dict>
+		<key>4C847195-F147-432C-92C2-3E8043067F4D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4C847195-F147-432C-92C2-3E8043067F4D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>16</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752749811.35289896</real>
+			<key>timeStoppedRecording</key>
+			<real>752749813.43574202</real>
+			<key>title</key>
+			<string>Build for Previews NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>4C847195-F147-432C-92C2-3E8043067F4D</string>
+		</dict>
+		<key>4D6D2E6D-D5B8-497F-B94F-DAE5B5621505</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4D6D2E6D-D5B8-497F-B94F-DAE5B5621505.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747202.63885999</real>
+			<key>timeStoppedRecording</key>
+			<real>752747203.86523402</real>
+			<key>title</key>
+			<string>Build NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>4D6D2E6D-D5B8-497F-B94F-DAE5B5621505</string>
+		</dict>
 		<key>4E5B5E09-83F8-48B9-BFD9-513FDEA265DB</key>
 		<dict>
 			<key>className</key>
@@ -1728,6 +1980,90 @@
 			<key>uniqueIdentifier</key>
 			<string>506FA87A-12E5-4A78-A912-61D72ECA09F8</string>
 		</dict>
+		<key>50B4D356-4B33-486D-84BC-BE16A3EC9CA2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>50B4D356-4B33-486D-84BC-BE16A3EC9CA2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747501.18954206</real>
+			<key>timeStoppedRecording</key>
+			<real>752747502.119766</real>
+			<key>title</key>
+			<string>Build NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>50B4D356-4B33-486D-84BC-BE16A3EC9CA2</string>
+		</dict>
+		<key>513AA341-B380-45DE-97C8-B047563DA581</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>513AA341-B380-45DE-97C8-B047563DA581.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747082.99979401</real>
+			<key>timeStoppedRecording</key>
+			<real>752747084.37675095</real>
+			<key>title</key>
+			<string>Build NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>513AA341-B380-45DE-97C8-B047563DA581</string>
+		</dict>
 		<key>54DE206A-0FFE-45BF-B5C3-D378F1D8EC5A</key>
 		<dict>
 			<key>className</key>
@@ -1769,6 +2105,48 @@
 			<string>Build NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>54DE206A-0FFE-45BF-B5C3-D378F1D8EC5A</string>
+		</dict>
+		<key>574B37CC-E8CC-4B1C-BDFE-829D130395EA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>574B37CC-E8CC-4B1C-BDFE-829D130395EA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>5</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752748620.05025101</real>
+			<key>timeStoppedRecording</key>
+			<real>752748621.02945399</real>
+			<key>title</key>
+			<string>Build for Previews NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>574B37CC-E8CC-4B1C-BDFE-829D130395EA</string>
 		</dict>
 		<key>576AF724-0C4E-4232-80D3-4C0A60D8F7D8</key>
 		<dict>
@@ -1980,6 +2358,48 @@
 			<key>uniqueIdentifier</key>
 			<string>5F8C9735-5FD6-471C-AB1A-C8200C234443</string>
 		</dict>
+		<key>60480600-93E3-4A94-8980-475B5D88104F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>60480600-93E3-4A94-8980-475B5D88104F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>18</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747900.341887</real>
+			<key>timeStoppedRecording</key>
+			<real>752747900.602808</real>
+			<key>title</key>
+			<string>Build NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>60480600-93E3-4A94-8980-475B5D88104F</string>
+		</dict>
 		<key>60BD3ECD-2050-4E1C-A781-7B5849573F9B</key>
 		<dict>
 			<key>className</key>
@@ -2021,6 +2441,48 @@
 			<string>Build NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>60BD3ECD-2050-4E1C-A781-7B5849573F9B</string>
+		</dict>
+		<key>66A948CB-1EAF-46C6-B7E1-9D1295A8AF70</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>66A948CB-1EAF-46C6-B7E1-9D1295A8AF70.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747287.90011704</real>
+			<key>timeStoppedRecording</key>
+			<real>752747289.02316105</real>
+			<key>title</key>
+			<string>Build NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>66A948CB-1EAF-46C6-B7E1-9D1295A8AF70</string>
 		</dict>
 		<key>6C93234F-3EFA-42EC-A41F-3889F44B76F6</key>
 		<dict>
@@ -2147,6 +2609,48 @@
 			<string>Build NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>71D66935-138F-4695-9470-98002E10BAAE</string>
+		</dict>
+		<key>7E456104-8312-4742-A72D-2C6E3C5A0142</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7E456104-8312-4742-A72D-2C6E3C5A0142.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>18</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752748900.91223097</real>
+			<key>timeStoppedRecording</key>
+			<real>752748905.04057395</real>
+			<key>title</key>
+			<string>Build NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>7E456104-8312-4742-A72D-2C6E3C5A0142</string>
 		</dict>
 		<key>7F0468C0-E242-4A47-A91A-04CF70AD19DE</key>
 		<dict>
@@ -2316,6 +2820,48 @@
 			<key>uniqueIdentifier</key>
 			<string>83585D70-EAFA-4DC5-BAEB-9F986C436647</string>
 		</dict>
+		<key>85864220-7533-4CEB-85E9-CA1A49F13CD6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>85864220-7533-4CEB-85E9-CA1A49F13CD6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>6</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>5</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752748822.411237</real>
+			<key>timeStoppedRecording</key>
+			<real>752748823.39993298</real>
+			<key>title</key>
+			<string>Build for Previews NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>85864220-7533-4CEB-85E9-CA1A49F13CD6</string>
+		</dict>
 		<key>86A8744B-6995-448E-BEE9-D9AA1C9568BA</key>
 		<dict>
 			<key>className</key>
@@ -2357,6 +2903,48 @@
 			<string>Build NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>86A8744B-6995-448E-BEE9-D9AA1C9568BA</string>
+		</dict>
+		<key>87B8D6E3-5016-45A0-A9D1-BAA00BEBED6E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>87B8D6E3-5016-45A0-A9D1-BAA00BEBED6E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747666.92421198</real>
+			<key>timeStoppedRecording</key>
+			<real>752747668.10791397</real>
+			<key>title</key>
+			<string>Build NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>87B8D6E3-5016-45A0-A9D1-BAA00BEBED6E</string>
 		</dict>
 		<key>8B92867B-35C5-4159-803B-3BE7E8D70B69</key>
 		<dict>
@@ -2526,6 +3114,48 @@
 			<key>uniqueIdentifier</key>
 			<string>90333305-9508-48AB-9F12-43EB40052D9E</string>
 		</dict>
+		<key>932CCEC9-C9AA-4ACB-BBB8-8FBAE4D7678C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>932CCEC9-C9AA-4ACB-BBB8-8FBAE4D7678C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>19</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752748624.61497104</real>
+			<key>timeStoppedRecording</key>
+			<real>752748626.09772205</real>
+			<key>title</key>
+			<string>Build for Previews NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>932CCEC9-C9AA-4ACB-BBB8-8FBAE4D7678C</string>
+		</dict>
 		<key>95DD445B-44CB-4E7F-AB99-E7720C0C6EDB</key>
 		<dict>
 			<key>className</key>
@@ -2609,6 +3239,48 @@
 			<string>Build NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>96303606-2F46-4D5E-9E6E-2E08A11EF48A</string>
+		</dict>
+		<key>9742DD3F-0181-41E7-BE6E-8252FF8862D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9742DD3F-0181-41E7-BE6E-8252FF8862D7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747588.68980205</real>
+			<key>timeStoppedRecording</key>
+			<real>752747589.90076303</real>
+			<key>title</key>
+			<string>Build NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>9742DD3F-0181-41E7-BE6E-8252FF8862D7</string>
 		</dict>
 		<key>9DDF817D-1B32-47E5-9F2F-8CFDD1B8B79C</key>
 		<dict>
@@ -2862,6 +3534,48 @@
 			<key>uniqueIdentifier</key>
 			<string>A3B7FA76-47A0-4E34-8747-26C511E3629B</string>
 		</dict>
+		<key>A760E56B-2B88-49DB-86A9-A5596D77129D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A760E56B-2B88-49DB-86A9-A5596D77129D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>18</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747936.36935496</real>
+			<key>timeStoppedRecording</key>
+			<real>752747937.98448706</real>
+			<key>title</key>
+			<string>Build for Previews NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A760E56B-2B88-49DB-86A9-A5596D77129D</string>
+		</dict>
 		<key>AACE6796-7BA3-48E7-A1DC-E9EB510958D8</key>
 		<dict>
 			<key>className</key>
@@ -2988,6 +3702,48 @@
 			<key>uniqueIdentifier</key>
 			<string>AB4A9EC6-73A9-487E-806E-BD2399406B2A</string>
 		</dict>
+		<key>ACDD8436-70BB-48F4-ADA9-B4A92D791461</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ACDD8436-70BB-48F4-ADA9-B4A92D791461.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>19</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752748824.79659104</real>
+			<key>timeStoppedRecording</key>
+			<real>752748826.032745</real>
+			<key>title</key>
+			<string>Build for Previews NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>ACDD8436-70BB-48F4-ADA9-B4A92D791461</string>
+		</dict>
 		<key>AD5EF5BD-32E9-4060-A19D-4EBB64F13158</key>
 		<dict>
 			<key>className</key>
@@ -3029,6 +3785,90 @@
 			<string>Build NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>AD5EF5BD-32E9-4060-A19D-4EBB64F13158</string>
+		</dict>
+		<key>AF3D11F3-930D-41EB-BAA5-FA82D2A9067A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AF3D11F3-930D-41EB-BAA5-FA82D2A9067A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>19</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752748143.13351595</real>
+			<key>timeStoppedRecording</key>
+			<real>752748144.01268005</real>
+			<key>title</key>
+			<string>Build for Previews NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>AF3D11F3-930D-41EB-BAA5-FA82D2A9067A</string>
+		</dict>
+		<key>B0BC88F5-3ACC-4651-8001-D608C6304B47</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B0BC88F5-3ACC-4651-8001-D608C6304B47.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747436.88839304</real>
+			<key>timeStoppedRecording</key>
+			<real>752747437.93322003</real>
+			<key>title</key>
+			<string>Build NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>B0BC88F5-3ACC-4651-8001-D608C6304B47</string>
 		</dict>
 		<key>B245F519-8EF0-4E58-81EE-4664E34E1DF6</key>
 		<dict>
@@ -3281,6 +4121,90 @@
 			<string>Build NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>BFDA3A8A-F690-4615-9C9A-5C6CF9327758</string>
+		</dict>
+		<key>C4456E1F-700D-4EE3-BE32-433BD072DFBB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C4456E1F-700D-4EE3-BE32-433BD072DFBB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>18</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747874.210513</real>
+			<key>timeStoppedRecording</key>
+			<real>752747875.79968405</real>
+			<key>title</key>
+			<string>Build NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C4456E1F-700D-4EE3-BE32-433BD072DFBB</string>
+		</dict>
+		<key>C4CDD12E-2ECE-4BB9-8CBB-750196308D65</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C4CDD12E-2ECE-4BB9-8CBB-750196308D65.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747459.43721402</real>
+			<key>timeStoppedRecording</key>
+			<real>752747460.53879404</real>
+			<key>title</key>
+			<string>Build NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C4CDD12E-2ECE-4BB9-8CBB-750196308D65</string>
 		</dict>
 		<key>C6112657-C009-441A-A5E6-2203EFB4F58D</key>
 		<dict>
@@ -3744,6 +4668,48 @@
 			<key>uniqueIdentifier</key>
 			<string>DD63EA8A-2D62-4AE3-A1D6-BF5D87D0CDE3</string>
 		</dict>
+		<key>DEE39DAC-D2B7-4DB5-BE00-5F40702863AA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DEE39DAC-D2B7-4DB5-BE00-5F40702863AA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>5</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752748128.73256004</real>
+			<key>timeStoppedRecording</key>
+			<real>752748130.160622</real>
+			<key>title</key>
+			<string>Build for Previews NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>DEE39DAC-D2B7-4DB5-BE00-5F40702863AA</string>
+		</dict>
 		<key>E1DD7059-5E0B-44ED-AC79-A330A5F8938F</key>
 		<dict>
 			<key>className</key>
@@ -3870,6 +4836,48 @@
 			<key>uniqueIdentifier</key>
 			<string>E9ABE3D9-409B-40C3-87B6-C8950FE91FDD</string>
 		</dict>
+		<key>EAF9E284-B035-4407-A1A9-BB13EA3486AE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EAF9E284-B035-4407-A1A9-BB13EA3486AE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>12</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752746538.40173602</real>
+			<key>timeStoppedRecording</key>
+			<real>752746541.29291296</real>
+			<key>title</key>
+			<string>Build NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>EAF9E284-B035-4407-A1A9-BB13EA3486AE</string>
+		</dict>
 		<key>ECB596FB-8AA7-4BEE-B653-C3A6053B1999</key>
 		<dict>
 			<key>className</key>
@@ -3954,6 +4962,48 @@
 			<key>uniqueIdentifier</key>
 			<string>EF27C993-426C-43B6-A358-8C1640E27A2C</string>
 		</dict>
+		<key>F28BA3EC-A336-4180-80EE-AC32E5790A49</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F28BA3EC-A336-4180-80EE-AC32E5790A49.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>18</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752749680.95518601</real>
+			<key>timeStoppedRecording</key>
+			<real>752749684.07672095</real>
+			<key>title</key>
+			<string>Build for Previews NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F28BA3EC-A336-4180-80EE-AC32E5790A49</string>
+		</dict>
 		<key>F3906F2E-778E-4208-9C40-D40BE2C2D7B8</key>
 		<dict>
 			<key>className</key>
@@ -3995,6 +5045,90 @@
 			<string>Build NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>F3906F2E-778E-4208-9C40-D40BE2C2D7B8</string>
+		</dict>
+		<key>F4644F6F-C39F-440B-BFCE-EF3D804FB630</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F4644F6F-C39F-440B-BFCE-EF3D804FB630.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>16</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747810.54006696</real>
+			<key>timeStoppedRecording</key>
+			<real>752747812.53981805</real>
+			<key>title</key>
+			<string>Build for Previews NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F4644F6F-C39F-440B-BFCE-EF3D804FB630</string>
+		</dict>
+		<key>F4E40647-86B1-4706-8C2A-811B0E84DD5D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F4E40647-86B1-4706-8C2A-811B0E84DD5D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>16</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752749813.53485703</real>
+			<key>timeStoppedRecording</key>
+			<real>752749814.99988496</real>
+			<key>title</key>
+			<string>Build for Previews NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F4E40647-86B1-4706-8C2A-811B0E84DD5D</string>
 		</dict>
 		<key>F7B38354-4585-4A7A-959A-185A8C9D54AA</key>
 		<dict>
@@ -4079,6 +5213,48 @@
 			<string>Build NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>F9D246BD-4C3A-471D-B24F-419C1D4B8703</string>
+		</dict>
+		<key>FAB1B35B-FBB3-499F-8544-36436ABD0088</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FAB1B35B-FBB3-499F-8544-36436ABD0088.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>19</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752748134.30263495</real>
+			<key>timeStoppedRecording</key>
+			<real>752748135.638309</real>
+			<key>title</key>
+			<string>Build for Previews NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FAB1B35B-FBB3-499F-8544-36436ABD0088</string>
 		</dict>
 		<key>FBC29603-0EF9-4C2D-9BC7-A33F255BA82D</key>
 		<dict>
@@ -4205,6 +5381,48 @@
 			<string>Build NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>FD43A691-AF7A-4992-BECE-5B46CB00D569</string>
+		</dict>
+		<key>FEE0046E-F333-436A-A50E-BA97B7452D1F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FEE0046E-F333-436A-A50E-BA97B7452D1F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747422.65414798</real>
+			<key>timeStoppedRecording</key>
+			<real>752747423.72483599</real>
+			<key>title</key>
+			<string>Build NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FEE0046E-F333-436A-A50E-BA97B7452D1F</string>
 		</dict>
 	</dict>
 </dict>

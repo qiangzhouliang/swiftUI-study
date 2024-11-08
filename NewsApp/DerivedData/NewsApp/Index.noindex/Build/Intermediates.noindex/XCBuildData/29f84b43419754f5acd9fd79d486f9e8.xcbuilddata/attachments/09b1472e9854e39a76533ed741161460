@@ -1,0 +1,135 @@
+{
+  "" : {
+    "dependencies" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Index.noindex/Build/Intermediates.noindex/NewsApp.build/Debug-iphoneos/NewsApp.build/Objects-normal/arm64/NewsApp-master.d",
+    "diagnostics" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Index.noindex/Build/Intermediates.noindex/NewsApp.build/Debug-iphoneos/NewsApp.build/Objects-normal/arm64/NewsApp-master.dia",
+    "emit-module-dependencies" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Index.noindex/Build/Intermediates.noindex/NewsApp.build/Debug-iphoneos/NewsApp.build/Objects-normal/arm64/NewsApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Index.noindex/Build/Intermediates.noindex/NewsApp.build/Debug-iphoneos/NewsApp.build/Objects-normal/arm64/NewsApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Index.noindex/Build/Intermediates.noindex/NewsApp.build/Debug-iphoneos/NewsApp.build/Objects-normal/arm64/NewsApp-master.swiftdeps"
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Index.noindex/Build/Intermediates.noindex/NewsApp.build/Debug-iphoneos/NewsApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/Common/ColorUtil.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/Common/ScreenUtil.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/ContentView.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/Extensions/DataRequestExtension.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/Model/Entity/Article.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/Model/Entity/BaseModel.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/Model/Entity/Category.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/Model/Entity/Response.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/Model/Entity/VideoModel.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/Model/Service/ArticleService.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/Model/Service/CategoryService.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/Model/Service/VideoService.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/Model/Typealias.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/NewsAppApp.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/PreferenceKey/SizePreferenceKey.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/ViewModel/ArticleViewModel.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/ViewModel/CategoryViewModel.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/ViewModel/UserViewModel.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/ViewModel/VideoViewModel.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/pages/ArticleDetail.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/pages/LoginView.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/pages/Overlay.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/pages/ProfilePage.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/pages/StudyPage.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/pages/TaskPage.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/pages/VideoDetail.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/AppBarView.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/AsyncImage.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/BottomSheet.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/DailyTask.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/mine/MineItemView.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/RoundedCourners.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/studyPage/ArticleListView.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/studyPage/Swiper.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/studyPage/SwiperControl.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/studyPage/SwiperView.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/studyPage/TabbarView.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/studyPage/VideoListView.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/studyPage/WebView.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/taskPage/ChartView.swift" : {
+
+  },
+  "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/NewsApp/views/views/taskPage/OverView.swift" : {
+
+  }
+}

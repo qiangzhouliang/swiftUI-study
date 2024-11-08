@@ -12,6 +12,7 @@ struct NewsAppApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(UserViewModel()) // 全局使用
         }
     }
 }

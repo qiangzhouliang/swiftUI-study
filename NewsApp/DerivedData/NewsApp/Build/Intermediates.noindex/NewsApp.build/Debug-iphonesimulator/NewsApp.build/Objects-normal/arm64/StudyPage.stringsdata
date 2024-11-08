@@ -4,7 +4,15 @@
     "Localizable": [
       {
         "comment": "",
+        "key": "详情页"
+      },
+      {
+        "comment": "",
         "key": "搜索感兴趣的内容"
+      },
+      {
+        "comment": "",
+        "key": ""
       },
       {
         "comment": "",
@@ -13,6 +21,10 @@
       {
         "comment": "",
         "key": "100%"
+      },
+      {
+        "comment": "",
+        "key": "%0"
       }
     ]
   },

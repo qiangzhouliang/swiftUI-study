@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'NewsApp' in project 'NewsApp'
+➜ Explicit dependency on target 'Alamofire' in project 'Alamofire'
+Target 'Alamofire' in project 'Alamofire'
+➜ Explicit dependency on target 'Alamofire' in project 'Alamofire'
+Target 'Alamofire' in project 'Alamofire' (no dependencies)

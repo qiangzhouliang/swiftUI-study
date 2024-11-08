@@ -372,6 +372,67 @@
 			<key>uniqueIdentifier</key>
 			<string>141F5FA2-19CB-4588-A7AB-9CF5A961BEF1</string>
 		</dict>
+		<key>145B2712-B1B5-4C31-BFCA-5D6ADF13A8C6</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>66A948CB-1EAF-46C6-B7E1-9D1295A8AF70</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NewsApp-2024.11.08_16-28-07-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>7</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747287.89998901</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>145B2712-B1B5-4C31-BFCA-5D6ADF13A8C6</string>
+		</dict>
 		<key>14AD7704-C31C-4A70-8BFB-1AD3943AE129</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -555,6 +616,67 @@
 			<key>uniqueIdentifier</key>
 			<string>209E2714-2B0E-48EC-9919-13C9E40DE357</string>
 		</dict>
+		<key>23D61636-811F-4C03-9F5C-F1342076F4FC</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>87B8D6E3-5016-45A0-A9D1-BAA00BEBED6E</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NewsApp-2024.11.08_16-34-26-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>7</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747666.92407799</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>23D61636-811F-4C03-9F5C-F1342076F4FC</string>
+		</dict>
 		<key>24B1840A-4139-4CA4-B4C6-B4D9F9A6CD5F</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -676,6 +798,128 @@
 			<string>Run NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>26B54FEC-7CF7-48AF-8A44-4D464D5E68E5</string>
+		</dict>
+		<key>27DE3064-E636-4800-9FFB-CF2C435B1D86</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>238F38BC-3BA0-4E17-9B39-551688044F7D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NewsApp-2024.11.08_16-33-49-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>7</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747629.43980396</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>27DE3064-E636-4800-9FFB-CF2C435B1D86</string>
+		</dict>
+		<key>2A0126D6-1211-4984-B511-52EE4F944C51</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>EAF9E284-B035-4407-A1A9-BB13EA3486AE</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>12</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NewsApp-2024.11.08_16-15-38-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>5</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752746538.40059996</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>2A0126D6-1211-4984-B511-52EE4F944C51</string>
 		</dict>
 		<key>30B75653-804F-4D96-B4E4-FCB3D71D5951</key>
 		<dict>
@@ -921,6 +1165,67 @@
 			<key>uniqueIdentifier</key>
 			<string>36AC744C-758C-45D1-A0AB-8C5B267443A2</string>
 		</dict>
+		<key>371CA1B0-8DC5-4FC0-A414-22C479E1C528</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>50B4D356-4B33-486D-84BC-BE16A3EC9CA2</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NewsApp-2024.11.08_16-31-41-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>7</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747501.18940794</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>371CA1B0-8DC5-4FC0-A414-22C479E1C528</string>
+		</dict>
 		<key>3A09FB08-A56C-4B07-A054-031E9B7C80CE</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -981,6 +1286,128 @@
 			<string>Run NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>3A09FB08-A56C-4B07-A054-031E9B7C80CE</string>
+		</dict>
+		<key>3FAA08DF-9396-4A19-BAB1-8EA733BF5774</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>6C93234F-3EFA-42EC-A41F-3889F44B76F6</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>13</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NewsApp-2024.11.08_15-53-59-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>5</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752745239.08413696</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>3FAA08DF-9396-4A19-BAB1-8EA733BF5774</string>
+		</dict>
+		<key>40417FAD-6573-4522-A86D-C0EAAFB6E1C4</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>C4CDD12E-2ECE-4BB9-8CBB-750196308D65</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NewsApp-2024.11.08_16-30-59-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>7</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747459.43710101</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>40417FAD-6573-4522-A86D-C0EAAFB6E1C4</string>
 		</dict>
 		<key>4151BD5E-DB48-4091-9A23-CFDB5A7CB038</key>
 		<dict>
@@ -1592,6 +2019,67 @@
 			<key>uniqueIdentifier</key>
 			<string>5AE84FCE-7BD8-468F-93AE-224F435E0067</string>
 		</dict>
+		<key>5D70CB6B-B63C-4431-BAAF-E51223BC15DA</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>FEE0046E-F333-436A-A50E-BA97B7452D1F</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NewsApp-2024.11.08_16-30-22-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>7</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747422.65402305</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>5D70CB6B-B63C-4431-BAAF-E51223BC15DA</string>
+		</dict>
 		<key>5D97D52B-B3ED-4A2B-A5DD-525C858710C7</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -2079,6 +2567,67 @@
 			<string>Run NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>6BA47E24-A2C0-40EA-9247-3ECBE38DDDD7</string>
+		</dict>
+		<key>6E435C0F-30A0-4FD1-B905-039B87238181</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>4D6D2E6D-D5B8-497F-B94F-DAE5B5621505</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NewsApp-2024.11.08_16-26-42-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>7</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747202.63872302</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>6E435C0F-30A0-4FD1-B905-039B87238181</string>
 		</dict>
 		<key>6F9A30BA-1D69-4E7D-B148-CE317D478D8B</key>
 		<dict>
@@ -2689,6 +3238,67 @@
 			<string>Run NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>7A3F57EB-9A3E-4DF0-BA8C-7B6F419F7B97</string>
+		</dict>
+		<key>7BB6D891-5721-4B4F-9F44-775F0069C783</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>60480600-93E3-4A94-8980-475B5D88104F</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>18</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NewsApp-2024.11.08_16-38-20-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>8</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747900.34173298</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>7BB6D891-5721-4B4F-9F44-775F0069C783</string>
 		</dict>
 		<key>7D2E5CDF-AEA0-4910-88D5-20DA8A1791A9</key>
 		<dict>
@@ -4093,6 +4703,67 @@
 			<key>uniqueIdentifier</key>
 			<string>BC25E697-33AA-45E3-BA78-5CE229BD2BE5</string>
 		</dict>
+		<key>BF37696C-3DFE-4BD7-BFAA-56BB58CE741A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>B0BC88F5-3ACC-4651-8001-D608C6304B47</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NewsApp-2024.11.08_16-30-36-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>7</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747436.88827205</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>BF37696C-3DFE-4BD7-BFAA-56BB58CE741A</string>
+		</dict>
 		<key>C0C8D79A-E1D7-4B47-AF39-F384C8D31E4E</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -4459,6 +5130,67 @@
 			<key>uniqueIdentifier</key>
 			<string>C8BB841D-E821-4E40-A4CD-81F636C9AE80</string>
 		</dict>
+		<key>C8E1F7A0-225F-42A1-A45E-F0D00B33CAAF</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>3938BBF5-A80E-415B-89E8-BCA52DE2FB5C</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NewsApp-2024.11.08_16-29-45-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>7</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747385.79296005</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C8E1F7A0-225F-42A1-A45E-F0D00B33CAAF</string>
+		</dict>
 		<key>C991D617-2E94-4A3A-9500-FD56A75BFC0E</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -4519,6 +5251,67 @@
 			<string>Run NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>C991D617-2E94-4A3A-9500-FD56A75BFC0E</string>
+		</dict>
+		<key>CC9C5471-DF6D-4831-A6F4-8B41B2CE113E</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>513AA341-B380-45DE-97C8-B047563DA581</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NewsApp-2024.11.08_16-24-43-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>7</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747082.99966395</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>CC9C5471-DF6D-4831-A6F4-8B41B2CE113E</string>
 		</dict>
 		<key>CEB6C994-97E2-4B14-A52D-E4D071878D88</key>
 		<dict>
@@ -4825,6 +5618,67 @@
 			<key>uniqueIdentifier</key>
 			<string>D98AB626-B433-42E8-AD93-7516BCE61B42</string>
 		</dict>
+		<key>DAE32721-2CC9-4021-BE08-E2ACAED0FD68</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>11033ABB-F725-40DB-9AF0-1ECDD8D48A9A</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NewsApp-2024.11.08_16-25-14-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>7</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747114.54371905</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>DAE32721-2CC9-4021-BE08-E2ACAED0FD68</string>
+		</dict>
 		<key>DBAA8145-268A-4938-9E0E-5C8DF5FA6ECB</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -4885,6 +5739,67 @@
 			<string>Run NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>DBAA8145-268A-4938-9E0E-5C8DF5FA6ECB</string>
+		</dict>
+		<key>DD3DB9F6-F2B5-4067-B013-6B256DD72CB2</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9742DD3F-0181-41E7-BE6E-8252FF8862D7</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>15</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NewsApp-2024.11.08_16-33-08-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>7</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747588.68964803</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>DD3DB9F6-F2B5-4067-B013-6B256DD72CB2</string>
 		</dict>
 		<key>DDA6C2C1-72C4-4636-A624-01D71ECFBB29</key>
 		<dict>
@@ -5251,6 +6166,67 @@
 			<string>Run NewsApp</string>
 			<key>uniqueIdentifier</key>
 			<string>F5652FC9-BD80-47DF-B64F-1DE24BBFE988</string>
+		</dict>
+		<key>F67679BE-0811-4DBF-AB81-9262E99AF41B</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>C4456E1F-700D-4EE3-BE32-433BD072DFBB</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>18</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NewsApp-2024.11.08_16-37-54-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>8</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747874.20946503</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F67679BE-0811-4DBF-AB81-9262E99AF41B</string>
 		</dict>
 		<key>FCF8A90B-803E-4692-93E9-DD8D876F13E8</key>
 		<dict>

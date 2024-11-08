@@ -1,0 +1,24 @@
+{
+  "source": "/Users/swan/Desktop/self_project/iOS/swiftUI/swiftUI-study/NewsApp/DerivedData/NewsApp/Build/Intermediates.noindex/Previews/iphonesimulator/NewsApp/Intermediates.noindex/NewsApp.build/Debug-iphonesimulator/NewsApp.build/Objects-normal/arm64/LoginView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "注册"
+      },
+      {
+        "comment": "",
+        "key": "用户名"
+      },
+      {
+        "comment": "",
+        "key": "密码"
+      },
+      {
+        "comment": "",
+        "key": "立即登录"
+      }
+    ]
+  },
+  "version": 1
+}
